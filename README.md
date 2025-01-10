@@ -1,4 +1,6 @@
-# [Car Dealer Application]
+# Car Dealer Application
+
+## [Git Pages]()
 
 A modern web application for browsing car models by make and year, built with Next.js 13+, TypeScript, and Tailwind CSS.
 
